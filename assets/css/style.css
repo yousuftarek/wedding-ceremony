@@ -1,0 +1,552 @@
+*
+{
+    margin: 0px auto;
+    padding: 0px;
+        
+}
+p
+{
+    line-height: 25px;
+}
+
+.slider img
+{
+    width: 100%;
+    height:500px;
+    
+}
+.menu-div
+{
+    height: 75px;
+    width: 100%;
+    background-color: #AE1558;
+    
+}
+.menu
+{
+    
+}
+.menu ul
+{
+    list-style: none;
+
+}
+.menu ul li
+{
+    float: left;
+    padding: 20px 15px;
+    font-weight: 700;
+}
+.menu ul li a
+{
+    text-decoration: none;
+    color: #fff;
+}
+.text-top
+{
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 45px;
+    
+    
+    
+}
+
+.text-top h1
+{
+    color: #AB1959;
+    font-family: Vladimir Script Regular;
+    font-size: 50px;
+}
+
+.text p
+{
+   
+}
+.contant
+{
+    margin-top: 50px;
+    margin-left: 5opx;
+    text-align: center;
+}
+.contant img
+{
+    border-bottom: 5px solid #C75B83;
+}
+.contant h3
+{
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.contant-1
+{
+    margin-top: 50px;
+    text-align: center;
+    margin-left: -5opx;
+}
+.contant-1 img
+{
+    border-bottom: 5px solid #1C89E6;
+}
+.contant-1 h3
+{
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.gallery
+{
+    padding: 50px;
+}
+.gallery h1
+{
+    text-align: center;
+    color: #AB1959;
+    font-family: Vladimir Script Regular;
+    font-size: 50px;  
+}
+
+.ride img
+{
+    margin-top: 100px;
+    width: 100%;
+}
+
+.began h1
+{
+    text-align: center;
+    padding: 70px;
+    color: #AB1959;
+    font-family: Vladimir Script Regular;
+    font-size: 50px;  
+    
+}
+
+.met-first
+{
+    background-color: #F5F5F5;
+    padding: 5px 20px;
+}
+.met-first h3
+{
+    color: #AB1959;
+    font-weight: 700;
+}
+.met-first h4
+{
+    color: #808080;
+}
+.met-first p
+{
+    color: #D6D6D6;
+}
+.met-live
+{
+     background-color: #F5F5F5;
+     padding: 5px 20px;
+     margin-top: 200px;
+}
+.met-live h3
+{
+     color: #AB1959;
+     font-weight: 700;
+}
+.met-live h4
+{
+    color: #808080;
+}
+.met-live p
+{
+    color: #D6D6D6;
+}
+.date
+{
+     background-color: #F5F5F5;
+     padding: 5px 20px;
+     margin-top: 185px;
+     margin-left: 30px;
+}
+.date h3
+{
+     color: #AB1959;
+     font-weight: 700;
+}
+.date h4
+{
+     color: #808080;
+}
+.date p
+{
+     color: #D6D6D6;
+}
+
+.proposed
+{
+    background-color: #F5F5F5;
+     padding: 5px 20px;
+     margin-top: 200px;
+     margin-left: 30px;
+}
+.proposed h3
+{
+     color: #AB1959;
+     font-weight: 700;
+}
+.proposed h4
+{
+     color: #808080;
+}
+.proposed p
+{
+     color: #D6D6D6;
+}
+.people h1
+{
+    text-align: center;
+    padding: 100px;
+    color: #AB1959;
+    font-family: Vladimir Script Regular;
+    font-size: 50px;  
+}
+.inveloved{}
+.people-text 
+{
+    background-color: #FAFAFA;
+    max-width: 350px;
+    height: 80px;
+    margin-left: -1px;
+    padding: 20px 20px;
+    border-bottom: 1px solid #F5F5F5;
+    border-left: 1px solid #F5F5F5;
+    border-right: 1px solid #F5F5F5;
+
+}
+.people-text span
+{
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #6A6A6A;
+}
+.people-text p
+{
+    margin-top: -8px;
+    color: #ccc;
+}
+.witz h1
+{
+    text-align: center;
+    padding: 70px;
+    color: #AB1959;
+    font-family: Vladimir Script Regular;
+    font-size: 50px;  
+     
+}
+.smith img
+{
+    width: 355px;
+}
+.smith-text
+{
+     background-color: #FAFAFA;
+     max-width: 355px;
+     height: 80px;
+     margin-left: -1px;
+     padding: 20px 20px;
+     border-bottom: 1px solid #F5F5F5;
+     border-left: 1px solid #F5F5F5;
+     border-right: 1px solid #F5F5F5;
+
+}
+
+.smith-text span
+{
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #6A6A6A;
+}
+.smith-text p
+{
+    margin-top: -8px;
+    color: #ccc;
+}
+
+.sung
+{
+   margin-top: 50px;  
+}
+.sung-text
+{
+     background-color: #FAFAFA;
+     max-width: 355px;
+     height: 80px;
+     margin-left: -1px;
+     padding: 20px 20px;
+     border-bottom: 1px solid #F5F5F5;
+     border-left: 1px solid #F5F5F5;
+     border-right: 1px solid #F5F5F5;
+}
+.sung-text span
+{
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #6A6A6A;
+}
+.sung-text p
+{
+    margin-top: -8px;
+    color: #ccc;
+}
+
+.being img
+{
+    width: 100%;
+    margin-top: 100px;
+}
+
+.bride h1
+{
+    text-align: center;
+    padding: 70px;
+    color: #AB1959;
+    font-family: Vladimir Script Regular;
+    font-size: 50px;  
+}
+.eva img
+{
+    width: 355px;
+}
+.eva-text
+{
+     background-color: #FAFAFA;
+     max-width: 355px;
+     height: 80px;
+     margin-left: -1px;
+     padding: 20px 20px;
+     border-bottom: 1px solid #F5F5F5;
+     border-left: 1px solid #F5F5F5;
+     border-right: 1px solid #F5F5F5;
+   
+}
+.eva-text span
+{
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #6A6A6A;
+}
+.eva-text p
+{
+    margin-top: -8px;
+    color: #ccc;
+}
+
+.funa img
+{
+    width: 355px;
+    margin-top: 50px;
+}
+.funa-text
+{
+     background-color: #FAFAFA;
+     max-width: 355px;
+     height: 80px;
+     margin-left: -1px;
+     padding: 20px 20px;
+     border-bottom: 1px solid #F5F5F5;
+     border-left: 1px solid #F5F5F5;
+     border-right: 1px solid #F5F5F5;
+}
+.funa-text span
+{
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #6A6A6A;
+}
+.funa-text p
+{
+    margin-top: -8px;
+    color: #ccc;
+}
+
+.wedding h1
+{
+    text-align: center;
+    padding: 70px;
+    color: #AB1959;
+    font-family: Vladimir Script Regular;
+    font-size: 50px;  
+}
+.wedding h4
+{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.wedding p
+{
+    max-width: 720px;
+    margin: 0px auto;
+    text-align: center;
+    margin-top: 30px;
+    color: #BDBDBD;
+}
+
+.number h1
+{
+    height: 120px;
+    width: 100%;
+    background-color: #FAFAFA;
+    border: 1px solid #EEEEEE;
+    font-size: 60px;
+    padding: 30px 60px;
+    margin-top: 70px;
+    color: #696969;
+}
+
+.number p
+{
+    width: 100%;
+    height: 50px;
+    color: #ccc;
+    text-transform: uppercase;
+    border-bottom: 1px solid #EEEEEE;
+    border-left: 1px solid #EEEEEE;
+    border-right: 1px solid #EEEEEE;
+    margin-top: -10px;
+    padding: 14px 70px;
+}
+
+.occo h1
+{
+    text-align: center;
+    padding: 60px;
+    color: #AB1959;
+    font-family: Vladimir Script Regular;
+    font-size: 50px;  
+}
+
+.occo p
+{
+    max-width: 720px;
+    margin: 0px auto;
+    text-align: center;
+    margin-top: 30px;
+    color: #D2D2D2;
+}
+.hotel img
+{
+    margin-top: 50px;
+    width: 360px;
+}
+
+.hotel-text
+{
+    
+}
+.hotel-text h4
+{
+    text-transform: uppercase;
+    font-weight: 700;
+    height: 150px;
+    background-color: #F5F5F5;
+    border: 1px solid #EEEEEE;
+    margin-top: -1px;
+    padding: 15px 20px;
+    color: #696969;
+}
+.hotel-text p
+{
+    margin-top: -95px;
+    padding: 10px 20px;
+    color: #ccc;
+}
+.location h5
+{
+    font-weight: 700;
+    height: 50px;
+    background-color: #F5F5F5;
+    border: 1px solid #EEEEEE;
+    padding: 16px 20px;
+    color: #696969;
+}
+
+.grift h1
+{
+    text-align: center;
+    padding: 60px;
+    color: #AB1959;
+    font-family: Vladimir Script Regular;
+    font-size: 50px;  
+}
+
+.shop 
+{
+     background-color: #F5F5F5;
+     height: 150px;
+     border: 1px solid #EEEEEE;
+}
+.shop h1
+{
+    padding: 40px 50px;
+    text-align: center;
+    color: #787677;
+}
+.shop h2
+{
+    padding: 25px 18px;
+    color: #787677;
+}
+.shop p
+{
+    padding-left: 50px;
+    margin-top: -35px;
+    color: #787677;
+}
+.shop h4
+{
+    height: 50px;
+    border: 1px solid #EEEEEE;
+    padding: 10px 100px;
+    color: #787677;
+}
+
+.buy h3
+{
+    margin-top: 100px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.buy p
+{
+    max-width: 700px;
+    text-align: center;
+    margin: 0px auto;
+    margin-top: 30px;
+}
+.price
+{
+    height: 60px;
+    width: 155px;
+    background-color: #AE1558;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 6px 15px;
+}
+.price span
+{
+    font-size: 35px;
+    color: #fff;
+  
+   
+}
+.price .fa
+{
+    color: #fff;
+    margin-left: 45px;
+    font-size: 25px;
+}
